@@ -5,8 +5,8 @@
 **A global multi-regional environmentally-extended input-output database.**
 
 
-[![Current release](https://img.shields.io/badge/previous%20beta-3.10.2-yellow)](https://github.com/EXIOBASE/00-workflow/tree/main/releases)
-[![Beta version](https://img.shields.io/badge/working%20release-3.11.2-blue)](https://github.com/EXIOBASE/00-workflow/tree/main/releases)
+[![Current release](https://img.shields.io/badge/current%20release-3.10.2-yellow)](https://github.com/EXIOBASE/00-workflow/tree/main/releases)
+[![Beta version](https://img.shields.io/badge/working%20version-3.11.2-blue)](https://github.com/EXIOBASE/00-workflow/tree/main/releases)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Python](https://img.shields.io/badge/python-3.11%2B-orange)](https://www.python.org/)
 
