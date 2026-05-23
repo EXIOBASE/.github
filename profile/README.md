@@ -4,11 +4,16 @@ EXIOBASE is a global, environmentally extended multi-regional input-output (EE-M
 
 This GitHub organisation hosts repositories used to build, document, extend, and apply EXIOBASE.
 
+## EXIOBASE consortium
+
+EXIOBASE was a result of collaborative efforts initially funded by the EU under FP6 and FP7 funding programs, with collaboration by the EXIOBASE consortium: **[consortium](https://www.exiobase.eu)** 
+
+
 ## Get the data
 
 DOI-stamped releases of EXIOBASE are published on Zenodo:
 
-- **[EXIOBASE on Zenodo](https://zenodo.org/communities/exiobase)** (all official releases)
+- **[EXIOBASE on Zenodo](https://zenodo.org/records/20051562)** (all official releases)
 
 This GitHub organisation is the working area for the people who maintain and develop the database. It is not the primary download point.
 
@@ -42,9 +47,11 @@ This is the front door for bug reports against the data products. Maintainers tr
 ## Other repos
 
 For spend-based emission factors for Australia based on EXIOBASE, see: **[Scope 3 emission factors Australia](https://zenodo.org/records/15524908)** 
-Similar efforts exist for Norway, Sweden, Denmark. Get in touch for more info: email [exiobase-support@googlegroups.com](mailto:exiobase-support@googlegroups.com).
+
+Similar efforts exist for Norway, Sweden, Denmark. 
+Get in touch for more info: email [exiobase-support@googlegroups.com](mailto:exiobase-support@googlegroups.com).
 
 
 ## Contact
 
-For questions about EXIOBASE licensing, see [exiobase.eu](https://www.exiobase.eu). For other questions, email [exiobase-support@googlegroups.com](mailto:exiobase-support@googlegroups.com).
+For questions about EXIOBASE licensing, email [exiobase-support@googlegroups.com](mailto:exiobase-support@googlegroups.com).
