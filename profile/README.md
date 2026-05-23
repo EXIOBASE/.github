@@ -37,7 +37,7 @@ EXIOBASE is currently in its **version 3 series**. Each release is archived on Z
 
 ## Maintainenance
 
-Currently, the core parts of EXIOBASE are being updated by  **[XIO Sustainability Analytics](https://www.xio-sa.com)**. XIO-SA are seeking income to invest in producing faster, more robust, and more detailed releases. **[XIO-SA](https://www.xio-sa.com)** also generate ready to use Scope1/2/3 emission factors ready for usage under commercial licence in order to support updates.  [Email](mailto:exiobase-support@googlegroups.com) for any questions.
+Currently, the core parts of EXIOBASE are being updated by  **[XIO Sustainability Analytics](https://www.xio-sa.com)**, other parts, such as the material extensions by **[WU Vienna](https://www.wu.ac.at/en/ecolecon/institute)**. XIO-SA are seeking income to invest in producing faster, more robust, and more detailed releases. **[XIO-SA](https://www.xio-sa.com)** also generate ready to use Scope1/2/3 emission factors ready for usage under commercial licence in order to support updates.  [Email](mailto:exiobase-support@googlegroups.com) for any questions.
 
 
 ## What you will find in this organisation
