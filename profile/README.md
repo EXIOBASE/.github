@@ -6,7 +6,7 @@ This GitHub organisation hosts repositories used to build, document, extend, and
 
 ## EXIOBASE consortium
 
-EXIOBASE was a result of collaborative efforts initially funded by the EU under FP6 and FP7 funding programs, with collaboration by the EXIOBASE consortium: **[consortium](https://www.exiobase.eu)** 
+EXIOBASE was a result of collaborative efforts initially funded by the EU under FP6 and FP7 funding programs, with collaboration by the EXIOBASE **[consortium](https://www.exiobase.eu)** 
 
 
 ## Get the data
