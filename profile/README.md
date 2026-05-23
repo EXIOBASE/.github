@@ -23,7 +23,7 @@ EXIOBASE is currently in its **version 3 series**. Each release is archived on Z
 
 ## Maintainenance
 
-Currently, the core parts of EXIOBASE are being updated by  **[XIO Sustainability Analytics](https://www.xio-sa.com)**. XIO-SA are seeking income to invest in producing faster, more robust, and more detailed releases. **[XIO-SA](https://www.xio-sa.com)** also generate ready to use Scope1/2/3 emission factors ready for usage under commercial licence in order to support updates. Email [exiobase-support@googlegroups.com](mailto:exiobase-support@googlegroups.com) for any questions.
+Currently, the core parts of EXIOBASE are being updated by  **[XIO Sustainability Analytics](https://www.xio-sa.com)**. XIO-SA are seeking income to invest in producing faster, more robust, and more detailed releases. **[XIO-SA](https://www.xio-sa.com)** also generate ready to use Scope1/2/3 emission factors ready for usage under commercial licence in order to support updates.  [Email](mailto:exiobase-support@googlegroups.com) for any questions.
 
 
 ## What you will find in this organisation
@@ -49,9 +49,9 @@ This is the front door for bug reports against the data products. Maintainers tr
 For spend-based emission factors for Australia based on EXIOBASE, see: **[Scope 3 emission factors Australia](https://zenodo.org/records/15524908)** 
 
 Similar efforts exist for Norway, Sweden, Denmark. 
-Get in touch for more info: email [exiobase-support@googlegroups.com](mailto:exiobase-support@googlegroups.com).
+Get in touch for more info: [Email](mailto:exiobase-support@googlegroups.com).
 
 
 ## Contact
 
-For questions about EXIOBASE licensing, email [exiobase-support@googlegroups.com](mailto:exiobase-support@googlegroups.com).
+For questions about EXIOBASE licensing, [Email](mailto:exiobase-support@googlegroups.com).
