@@ -1,0 +1,50 @@
+# EXIOBASE
+
+EXIOBASE is a global, environmentally extended multi-regional input-output (EE-MRIO) database. It supports research and analysis on production, consumption, trade, and the environmental and social pressures associated with economic activity. It is also widely used for Scope 3 emissions reporting and nature-based accounting. 
+
+This GitHub organisation hosts repositories used to build, document, extend, and apply EXIOBASE.
+
+## Get the data
+
+DOI-stamped releases of EXIOBASE are published on Zenodo:
+
+- **[EXIOBASE on Zenodo](https://zenodo.org/communities/exiobase)** (all official releases)
+
+This GitHub organisation is the working area for the people who maintain and develop the database. It is not the primary download point.
+
+## Versions
+
+EXIOBASE is currently in its **version 3 series**. Each release is archived on Zenodo with its own DOI. See the Zenodo community above for the full version history and to cite a specific release. EXIOBASE is now updated annually (with bug fixes in between). Collaboration is welcome. 
+
+## Maintainenance
+
+Currently, the core parts of EXIOBASE are being updated by  **[XIO Sustainability Analytics](https://www.xio-sa.com)**. XIO-SA are seeking income to invest in producing faster, more robust, and more detailed releases. **[XIO-SA](https://www.xio-sa.com)** also generate ready to use Scope1/2/3 emission factors ready for usage under commercial licence in order to support updates. Email [exiobase-support@googlegroups.com](mailto:exiobase-support@googlegroups.com) for any questions.
+
+
+## What you will find in this organisation
+
+- **Database structure and classifications.** Region, sector, and product nomenclatures, and mappings between EXIOBASE and other classification systems.
+- **Extensions.** Environmental and socio-economic extension accounts (for example energy, emissions, materials, water, land use, labour).
+- **Documentation and issue tracking.** Reference material and known issues for users of the published EXIOBASE releases.
+- **Applications.** Example analyses and downstream tools that build on EXIOBASE.
+
+Both public and private repositories live here. Public repositories are open for reuse under the licence stated in each repository. Private repositories support work in progress and are not intended for external use.
+
+## Reporting a bug in the data
+
+If you have found a wrong number, missing region, or unexpected value in a released EXIOBASE dataset and are not sure which repository it came from, open an issue at:
+
+**[EXIOBASE/exiobase-bugs](https://github.com/EXIOBASE/exiobase-bugs)**
+
+This is the front door for bug reports against the data products. Maintainers triage incoming reports and route them to the appropriate code repository.
+
+
+## Other repos
+
+For spend-based emission factors for Australia based on EXIOBASE, see: **[Scope 3 emission factors Australia](https://zenodo.org/records/15524908)** 
+Similar efforts exist for Norway, Sweden, Denmark. Get in touch for more info: email [exiobase-support@googlegroups.com](mailto:exiobase-support@googlegroups.com).
+
+
+## Contact
+
+For questions about EXIOBASE licensing, see [exiobase.eu](https://www.exiobase.eu). For other questions, email [exiobase-support@googlegroups.com](mailto:exiobase-support@googlegroups.com).
