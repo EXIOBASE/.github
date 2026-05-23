@@ -1,5 +1,19 @@
+<div align="center">
+
 # EXIOBASE
 
+**A global multi-regional environmentally-extended input-output database.**
+
+
+[![Current release](https://img.shields.io/badge/previous%20beta-3.10.2-lightgrey)](https://github.com/EXIOBASE/00-workflow/tree/main/releases)
+[![Beta version](https://img.shields.io/badge/working%20release-3.11.2-blue)](https://github.com/EXIOBASE/00-workflow/tree/main/releases)
+[![License](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![Python](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
+
+
+</div>
+
+---
 EXIOBASE is a global, environmentally extended multi-regional input-output (EE-MRIO) database. It supports research and analysis on production, consumption, trade, and the environmental and social pressures associated with economic activity. It is also widely used for Scope 3 emissions reporting and nature-based accounting. 
 
 This GitHub organisation hosts repositories used to build, document, extend, and apply EXIOBASE.
