@@ -5,10 +5,11 @@
 **A global multi-regional environmentally-extended input-output database.**
 
 
-[![Current release](https://img.shields.io/badge/current%20release-3.10.2-yellow)](https://github.com/EXIOBASE/00-workflow/tree/main/releases)
-[![Beta version](https://img.shields.io/badge/working%20version-3.11.2-blue)](https://github.com/EXIOBASE/00-workflow/tree/main/releases)
+[![Current release](https://img.shields.io/badge/current%20release-3.10.2-yellow)](https://zenodo.org/records/20051562)
+[![Beta release](https://img.shields.io/badge/beta%20release-3.11.2-blue)](https://zenodo.org/records/20051562)
+[![Working version](https://img.shields.io/badge/working%20version-3.12-orange)](https://zenodo.org/records/20051562)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-[![Python](https://img.shields.io/badge/python-3.11%2B-orange)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
 
 
 </div>
@@ -33,7 +34,9 @@ This GitHub organisation is the working area for the people who maintain and dev
 
 ## Versions
 
-EXIOBASE is currently in its **version 3 series**. Each release is archived on Zenodo with its own DOI. See the Zenodo community above for the full version history and to cite a specific release. EXIOBASE is now updated annually (with bug fixes in between). Collaboration is welcome. 
+EXIOBASE is currently in its **version 3 series**. Each release is archived on Zenodo with its own DOI. See the Zenodo community above for the full version history and to cite a specific release. EXIOBASE is now updated annually (with bug fixes in between). Collaboration is welcome.
+
+The current DOI-stamped release is **3.10.2** (on Zenodo). A **3.11.2** beta is being distributed on Box; **3.12** is the working version in development. [Get in touch](mailto:exiobase-support@googlegroups.com) about access to pre-release data.
 
 ## Maintainenance
 
